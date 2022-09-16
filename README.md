@@ -8,8 +8,8 @@
 # DEMO
 
 <!-- "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる -->
-[resume.md](resume.md)
-[resume.pdf](resume.pdf)
+* [resume.md](resume.md)
+* [resume.pdf](resume.pdf)
 
 # Requirement
 
